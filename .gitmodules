@@ -1,0 +1,15 @@
+[submodule "micro_app_login"]
+	path = micro_app_login
+	url = https://github.com/oliveira-gabriel/micro_app_login.git
+[submodule "micro_app_home"]
+	path = micro_app_home
+	url = https://github.com/oliveira-gabriel/micro_app_home.git
+[submodule "micro_core"]
+	path = micro_core
+	url = https://github.com/oliveira-gabriel/micro_core.git
+[submodule "micro_commons_design_system"]
+	path = micro_commons_design_system
+	url = https://github.com/oliveira-gabriel/micro_commons_design_system.git
+[submodule "base_app"]
+	path = base_app
+	url = https://github.com/oliveira-gabriel/base_app.git
